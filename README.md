@@ -1,4 +1,4 @@
- # last-work 绝对防御
+# last-work 绝对防御
  雷达监控报警器
 ## 1材料 
 arduino uno板子一块 
@@ -8,6 +8,8 @@ RGB灯一个
 杜邦线若干
 ## 2创作灵感
 喜欢军事塔防游戏，于是想做一个雷达监控报警器，在网上查找相关资料后，开始制作。
+## 3主要用途
+可以用于房门防护，警务亭，等一系列需要防护与监控的地方
 ## 3组装图
 ![ii](https://github.com/hujunbao718/last-work/blob/master/big%20work%20%E7%BB%9D%E5%AF%B9%E9%98%B2%E5%BE%A1_bb.jpg)
 ## 4实物图
