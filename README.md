@@ -1,6 +1,12 @@
-# last-work
-## 11
-### 22
-- hsidh
-
-![ii](https://github.com/hujunbao718/last-work/blob/master/1A622AF3BD2820966F9F2D6886DAC57F_0..jpg)
+ # last-work 绝对防御
+ 雷达监控报警器
+## 1材料 
+arduino uno板子一块 
+超声波测距模块一个
+RGB灯一个
+小型舵机一个 
+杜邦线若干 
+## 2组装图
+![ii]()
+## 3实物图
+![ii]()
