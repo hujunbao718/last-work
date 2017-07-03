@@ -28,3 +28,5 @@ processing 接受到串口的数据。解析出来角度和距离。 将这个�
 ![ii](https://github.com/hujunbao718/last-work/blob/master/IMG_20170702_231520.JPG)
 ![ii](https://github.com/hujunbao718/last-work/blob/master/IMG_20170702_231549.JPG)
 ![ii](https://github.com/hujunbao718/last-work/blob/master/IMG_20170702_231611.JPG)
+## 7视频链接
+http://pan.baidu.com/s/1eRYfECy
