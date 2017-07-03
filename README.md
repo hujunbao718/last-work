@@ -52,3 +52,4 @@ https://github.com/hujunbao718/last-work/blob/master/big_work______processing.pd
 ## 9Processing源代码
 https://github.com/hujunbao718/last-work/blob/master/big_work_arduino.ino
 ## 10A2海报
+https://github.com/hujunbao718/last-work/blob/master/big%20work%20%E7%BB%9D%E5%AF%B9%E9%98%B2%E5%BE%A1.png
