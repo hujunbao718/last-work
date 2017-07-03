@@ -21,3 +21,6 @@ processing 接受到串口的数据。解析出来角度和距离。 将这个�
 然后processing每次循环。都重新绘制界面。绘制当前角度的扫描扇形 取出数组中所有的数据。 再转换一下比例。再计算一下障碍物的坐标。绘制障碍物。
 ## 5效果图
 ![ii](https://github.com/hujunbao718/last-work/blob/master/big%20work.png)
+![ii]()
+![ii]()
+![ii]()
